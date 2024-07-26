@@ -17,6 +17,6 @@ The Automated Text Summarizer is a full-stack application designed to generate c
 - Input Article: Paste or type the article you want to summarize in the input field.
 - Generate Summary: Click the "Summarize" button to generate a summary.
 - View Summary: The summarized text will be displayed on the screen.
-- Word Cloud: A word cloud visualization of the article's content will also be generated.
+
 
 
